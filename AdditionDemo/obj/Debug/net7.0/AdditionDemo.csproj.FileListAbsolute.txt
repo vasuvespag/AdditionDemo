@@ -1,0 +1,15 @@
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\bin\Debug\net7.0\AdditionDemo.exe
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\bin\Debug\net7.0\AdditionDemo.deps.json
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\bin\Debug\net7.0\AdditionDemo.runtimeconfig.json
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\bin\Debug\net7.0\AdditionDemo.dll
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\bin\Debug\net7.0\AdditionDemo.pdb
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.csproj.AssemblyReference.cache
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.AssemblyInfoInputs.cache
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.AssemblyInfo.cs
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.csproj.CoreCompileInputs.cache
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.dll
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\refint\AdditionDemo.dll
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.pdb
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\AdditionDemo.genruntimeconfig.cache
+D:\C# Wor\source\repos\AdditionDemo\AdditionDemo\obj\Debug\net7.0\ref\AdditionDemo.dll
